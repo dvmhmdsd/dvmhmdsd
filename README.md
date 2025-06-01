@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohamed Saad
 =============================
 
-Software Developer (Front-End) @ AtarCloud
+Software Developer
 -------------------------------------
 
 *   🌍  I'm based in Egypt
